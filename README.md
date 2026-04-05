@@ -16,7 +16,7 @@ AI（ChatGPT）を使いながら作成しました。
 
 ## 🖥 デモ
 
-![Preview](リネーム２.png)
+![Preview](リネーム2.png)
 
 ---
 
