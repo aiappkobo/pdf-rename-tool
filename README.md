@@ -72,7 +72,7 @@ https://note.com/ai_app_kobo/n/n98ba3f745386
 💻 GitHub
 
 このリポジトリです👇
-https://github.com/aiappkobo/rename
+https://github.com/aiappkobo/pdf-rename-tool
 
 ---
 
