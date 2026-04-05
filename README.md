@@ -16,7 +16,7 @@ AI（ChatGPT）を使いながら作成しました。
 
 ## 🖥 デモ
 
-https://github.com/aiappkobo/pdf-rename-tool/blob/main/%E3%83%AA%E3%83%8D%E3%83%BC%E3%83%A02.png
+リネーム2.png
 
 ---
 
